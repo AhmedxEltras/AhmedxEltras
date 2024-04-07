@@ -15,7 +15,7 @@ I'm Ahmed Eltras<br>I am a data scientist<br>Currently interested in participati
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedxEltras&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
