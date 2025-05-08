@@ -27,7 +27,7 @@
 
 ## 📬 Let's Connect
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/ahmedeltras/](https://www.linkedin.com/in/ahmed-eltras-95654a35a/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ahmed-eltras-95654a35a/)
 - 📧 Email: ahmedeltras10@gmail.com
 
 > *“Without data, you're just another person with an opinion.” – W. Edwards Deming*
