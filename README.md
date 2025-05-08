@@ -22,8 +22,6 @@
 | Scikit-learn | Looker Studio | PostgreSQL/MySQL | Obsidian |
 
 ---
-
-## 📊 My Projects
 👉 Check out all my projects [here](https://github.com/AhmedxEltras?tab=repositories)
 ---
 
